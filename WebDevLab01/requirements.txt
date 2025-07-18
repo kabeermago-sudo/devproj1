@@ -1,7 +1,0 @@
-streamlit
-requests
-os
-importlib.util
-json
-matplotlib.pyplot
-altair
